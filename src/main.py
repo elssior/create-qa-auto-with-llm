@@ -1,7 +1,7 @@
-from core.service_discovery import clone_repository
+from core.service_discovery import get_services
 
 def main():
-    clone_repository()
+    services = get_services()
     
 
 if __name__ == "__main__":

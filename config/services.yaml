@@ -1,3 +1,3 @@
 services:
   - name: "services-monitor"
-    url: "git@gitlab.codemaster.pro:ngfw/services-probe.git"
+#    url: "git@gitlab.codemaster.pro:ngfw/services-probe.git"
