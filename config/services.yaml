@@ -1,3 +1,5 @@
 services:
   - name: "services-monitor"
 #    url: "git@gitlab.codemaster.pro:ngfw/services-probe.git"
+    swagger_path: "C:\\Users\\lsa\\Desktop\\create-qa-auto-with-llm\\services\\services-monitor\\swagger.json"
+    source_path: "C:\\Users\\lsa\\Desktop\\create-qa-auto-with-llm\\services\\services-monitor"
