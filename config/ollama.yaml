@@ -1,5 +1,6 @@
 llm:
-  model: qwen2.5-coder:1.5b-instruct-q4_K_M
+  model: qwen2.5:7b-instruct
+  # model: qwen2.5-coder:1.5b-instruct-q4_K_M
   model_server: http://127.0.0.1:11434/v1
   api_key: "EMPTY"
   stream: false
